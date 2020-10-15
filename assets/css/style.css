@@ -1,0 +1,100 @@
+.card-footer{
+    color: white;
+    background-color: #002554;
+    font-size: 1vw;
+  }
+  body {
+    /* Location of the image */
+    background-image: url(https://raw.githubusercontent.com/j3d118047/035/master/bg_body.jpg);
+    background-size:100vw;
+    /* Background image is centered vertically and horizontally at all times */
+    /* Background image doesn't tile */
+    background-repeat:no-repeat;
+    /* Set a background color that will be displayed
+    while the background image is loading */
+    background-color: white;
+  }
+  .card-title{
+    font-size: 5vw;
+    font-family: 'Times New Roman', Times, serif;
+    color:#013e8d;
+  }
+  .thumbnail {
+    position: absolute;
+  }
+  .caption {
+    font-size: 5vw;
+    text-shadow:-1px 0 black, 0 2px black, 1px 0 black, 0 -1px black;
+    color: white;
+    position: absolute;
+    top: 20vw;
+    left: 0;
+    width: 100%;
+  }
+  .navbar-brand{
+    font-family: 'Montserrat', sans-serif;
+  }
+  .project-file{
+    font-family: 'Crimson Text', serif;
+    font-size: 1.6vw;
+  }
+  .number-project{
+    font-family: 'Crimson Text', serif;
+    font-size: 5vw;
+    margin-top: -2vw;
+  }
+  .strip-project{
+    font-family: 'Crimson Text', serif;
+    font-size: 3vw;
+    margin-top: -5vw;
+  }
+  .font-project-yu{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2vw;
+    margin-top: 1vw;
+  }
+  .se-atas{
+    font-size: 4vw;
+    padding-top: 2vw;
+  }
+  .se-bawah{
+    font-family: 'Crimson Text', serif;
+    font-size: 2vw;
+    padding-top: 1.5vw;
+    
+  }
+  .gar-bawah{
+    font-family: 'Crimson Text', serif;
+    padding-left: 70vw;
+    padding-top: -6vw;
+    margin-top: -4vw;
+    
+    
+  }
+  .mo-bawah{
+    font-family: 'Crimson Text', serif;
+  }
+  .projek{
+    font-family: 'Crimson Text', serif;
+    color: #013e8d;
+    font-size: 5vw;
+    padding-left: 2vw;
+  }
+  .inter0{
+    font-family: 'Crimson Text', serif;
+    color: #013e8d;
+    font-size: 5vw;
+    padding-left: 6vw;
+  }
+  .inter1{
+    font-family: 'Crimson Text', serif;
+    color: black;
+    font-size: 1.5vw;
+    padding-left: 6vw;
+  }
+  .inter2{
+    font-family: 'Crimson Text', serif;
+    color: #5e5e5e;
+    font-size: 1vw;
+    padding-left: 6vw;
+  }
